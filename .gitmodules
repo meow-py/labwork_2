@@ -1,0 +1,3 @@
+[submodule "mironovmeow"]
+	path = mironovmeow
+	url = https://github.com/mironovmeow/mironovmeow.git
