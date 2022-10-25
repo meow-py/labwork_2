@@ -2,5 +2,5 @@
 	path = mironovmeow
 	url = https://github.com/mironovmeow/mironovmeow.git
 [submodule "labwork_2"]
-	path = labwork_2
+	path = test
 	url = https://github.com/meow-py/labwork_2
