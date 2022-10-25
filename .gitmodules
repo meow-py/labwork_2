@@ -1,3 +1,6 @@
 [submodule "mironovmeow"]
 	path = mironovmeow
 	url = https://github.com/mironovmeow/mironovmeow.git
+[submodule "labwork_2"]
+	path = labwork_2
+	url = https://github.com/meow-py/labwork_2
